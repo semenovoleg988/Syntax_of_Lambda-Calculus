@@ -1,5 +1,5 @@
 # SyntaxofLambdaCalculus
-"# Syntax_of_Lambda-Calculus" 
+
 Write Haskell-code for solving the following problems:
 1. (2 point) develop datatypes for representing variables and terms;
 2. (2 point) identify whether the given variable is fresh in the given term;
